@@ -1,0 +1,21 @@
+.feature {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    text-align: center;
+    width: 20%;
+  }
+  .feature h3 {
+    font-size: 25px;
+    font-weight: 400;
+    color: #FFF;
+  }
+  .feature p {
+    color: #FFF;
+  }
+  .feature i {
+    color: #FFF;
+    font-size: 25px;
+  }

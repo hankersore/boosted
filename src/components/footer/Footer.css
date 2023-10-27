@@ -1,0 +1,25 @@
+footer {
+    background-color: #f7f7f7;
+    padding: 50px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  footer img {
+    width: 160px;
+    height: 130px;
+  }
+  footer ul {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 30%;
+  }
+  footer ul p {
+    font-size: 20px;
+  }
+  footer ul li {
+    font-size: 12px;
+    line-height: 22px;
+  }
+  
